@@ -31,7 +31,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master  # Substitua por "main" se for o branch principal
+          branch: main  # Substitua por "main" se for o branch principal
           force: true
 
       # Publica no GitHub Pages
