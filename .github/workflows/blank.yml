@@ -5,7 +5,6 @@ name: Snake Game
 on:
   schedule:
     - cron: "0 */5 * * *"  # Será atualizado a cada 5 horas
-  workflow_dispatch:  # Permite executar manualmente
 
 # Regras
 jobs:
