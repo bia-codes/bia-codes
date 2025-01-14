@@ -21,6 +21,6 @@
 
 </div>
 
-![snake gif](https://github.com/bia-codes/bia-codes/blob/output/github-contribution-grid-snake.svg)
+
 
 
