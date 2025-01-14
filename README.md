@@ -21,6 +21,5 @@
 
 </div>
 
-![Snake animation](https://github.com/bia-codes/bia-codes/blob/output/github-contribution-grid-snake.svg)
 
 
