@@ -1,8 +1,12 @@
-## Olá!! Eu sou a Bianca😊
+## Olá!! Eu sou a Bianca, uma desenvolvedora apaixonada por tecnologia e inovação😊
 
 - 🔭 Cursando Ciência da Computação
-- 🌱 Estudando Python, Django e SQL
 - 👯 Procurando um estágio na área de TI
+- 🌟 Habilidades:
+    - Backend em Python e Django e gerenciamento de banco de dados com PostgreSQL
+    - Desenvolvimento web com HTML, CSS e JavaScript
+    - Criação de interfaces responsivas e amigáveis
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bia-codes&show_icons=true&theme=radical)
 
@@ -10,7 +14,11 @@
     <img align="center" alt="bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="bia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
     <img align="center" alt="bia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />  
-    <img align="center" alt="bia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />    
+    <img align="center" alt="bia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />  
+    <img align="center" alt="bia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="bia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+          
 </div>
 
 ##
