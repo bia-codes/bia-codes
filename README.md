@@ -1,11 +1,12 @@
-## Olá!! Eu sou a Bianca, uma desenvolvedora apaixonada por tecnologia e inovação😊
+## Olá!! Eu sou a Bianca, uma Desenvolvedora de Software apaixonada por tecnologia e por fazer a diferença😊
 
 - 🔭 Cursando Ciência da Computação
-- 👯 Buscando um estágio na área de TI
-- 🌟 Habilidades:
-    - Backend em Python e Django e gerenciamento de banco de dados com PostgreSQL
-    - Desenvolvimento web com HTML, CSS e JavaScript
-    - Criação de interfaces e estruturas responsivas e amigáveis
+- 👯 Buscando um estágio / efetivo na área de TI
+- 🌟 Perfil profissional:
+    - Foco em desenvolvimento backend com Python e Django 
+    - APIs e integração com banco de dados
+    - Criação de sistemas que resolvem problemas reais
+    - Boas práticas de desenvolvimento e aprendizado contínuo
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bia-codes&show_icons=true&theme=radical)
